@@ -13,8 +13,10 @@ Explores and creates insightful data visualizations about the pricing and proper
 tools: Matplotlib, Seaborn
 
 ##  Deep Learning
-Develop a Convolutional Neural Network Model that can predict the price (cost per weight/price_per_carat) of a diamond based on its image alone. The model is trained using thousands of images of the same diamonds used above. (Aims to give customers, who knows little to nothing about properties of diamonds, a price estimate)
+Develop a Convolutional Neural Network Model that can predict the price (cost per weight/price_per_carat) of a diamond based on its image alone. The model is trained using thousands of images of the same diamonds used above. (Aims to give customers, who knows little to nothing about properties of diamonds, a price estimate)\
+tools: Scikit
 
 
 ## Machine Learning
 Create a machine learning model that can predict the total price of a diamond based on its tabular properties. Tests different models and ended up using Random Forest Regression with the best performance. (Aims to help gem cutters, who are knowledgeable about diamond properties, decide how to cut raw diamonds, and predict how much they can sell it)
+tools: TensorFlow
